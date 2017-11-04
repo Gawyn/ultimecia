@@ -1,0 +1,6 @@
+.DS_Store
+
+# Ignore videos
+*.avi
+*.mkv
+*.mp4
